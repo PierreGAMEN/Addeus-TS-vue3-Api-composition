@@ -1,39 +1,22 @@
-# candidature-addeus-ts
+# Personalised cover letter based on the Addeus website
 
-This template should help get you started developing with Vue 3 in Vite.
+This page is a personalised cover letter based on the Addeus website.
 
-## Recommended IDE Setup
+I first created the whole thing in ‘vueJS 2’, then reworked it to take a more modern approach and use ‘Vue JS 3’ and its ‘composition API’. I also wrote my code in JS first and then switched to TS.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+This is a pure front-end project with two objectives:
 
-## Type Support for `.vue` Imports in TS
+- To work on my level of integration of a model/website.
+- To respond to the Addeus job offer.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Staks
 
-## Customize configuration
+- VueJS 3 - API composition
+- Typescript
+- Scss
+- Vite
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Want to see the result ? 
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- [My personalised website](https://candidature-addeus.netlify.app/).
+- [The Original](https://www.addeus.ai/).
